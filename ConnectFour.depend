@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1463443151 source:c:\users\kaarthic\desktop\me\new my stuff\c++ programs\connectfour\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	<windows.h>
+	<stdlib.h>
+	<cstdlib>
+	<time.h>
+
